@@ -1,4 +1,24 @@
 /* General */
+@media (max-width: 768px) {
+  /* Cambios para pantallas pequeñas */
+  body {
+    background-size: contain;
+  }
+  h1 {
+    font-size: 24px;
+  }
+}
+
+a:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.icon {
+  border-radius: 50%;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
 * {
   margin: 0;
   padding: 0;
