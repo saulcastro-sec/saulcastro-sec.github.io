@@ -27,14 +27,14 @@ a:hover {
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #09067e;
+  background-color: #ffffff;
   color: #333;
   line-height: 1.6;
 }
 
 /* Header */
 header {
-  background-color: #4CAF50;
+  background-color: #09067e;
   color: white;
   text-align: center;
   padding: 2rem 1rem;
